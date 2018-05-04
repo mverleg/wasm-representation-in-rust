@@ -1,3 +1,8 @@
+
+pub mod wairu {
+    
+}
+
 #[cfg(test)]
 mod tests {
     #[test]

@@ -4,3 +4,4 @@ version = "0.1.0"
 authors = ["Mark <mverleg.noreply@gmail.com>"]
 
 [dependencies]
+leb128 = "0.2.1"
